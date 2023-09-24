@@ -4,13 +4,15 @@
 ### Interests
 - computational design / interactive web design and development / ethics for artificial intelligence
 
-### Repository Types
+#### Repository Types
 - **Study** : 책이나 수업을 들으면서 작성했던 코드를 보관한 저장소
-- **Clone-Project** : 프로젝트를 따라해보면서 작성했던 코드 보관
-- **Originals** : 직접 기획하고 개발한 코드 보관 
+- **Clone-Project** : 프로젝트를 따라해보면서 작성했던 코드 저장소
+- **Originals** : 직접 기획하고 개발한 코드 저장소
   
-### Website
+#### Website
 🔗 https://vsongyev.myportfolio.com/ / 🔗 https://songye.myportfolio.com/
+<br/>
+<br/>
 
 #### 📋 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -30,7 +32,7 @@
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
 
-#### Once I Used
+#### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
