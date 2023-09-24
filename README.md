@@ -15,6 +15,11 @@ ethics for artificial intelligence
 
 #### 📫 How to reach me: ...
 
+#### once i used
+- processing java , javascript
+- arduino
+- mysql,mongodb
+- 
 <!--
 **songye38/songye38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
