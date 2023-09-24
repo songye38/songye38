@@ -4,9 +4,9 @@
 design and programming
 
 #### Interests
-computational design
-interactive web design and development
-ethics for artificial intelligence
+- computational design
+- interactive web design and development
+- ethics for artificial intelligence
 #### Website
 
 #### 🌱 I’m currently learning ...
