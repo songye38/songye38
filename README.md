@@ -7,6 +7,12 @@ design and programming
 - computational design
 - interactive web design and development
 - ethics for artificial intelligence
+
+#### Repository Types
+- Study : 책이나 수업을 들으면서 작성했던 코드를 보관한 저장소
+- Clone-Project : 프로젝트를 따라해보면서 작성했던 코드 보관
+- Originals : 직접 기획하고 개발한 코드 보관 
+  
 #### Website
 
 #### 🌱 I’m currently learning ...
