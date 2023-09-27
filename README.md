@@ -9,17 +9,11 @@ Si vis libertatem, veni ad me
 ### Interests
 - computational design / interactive web design and development / ethics for artificial intelligence
 
-### LEVELS
-#### BASICS
-- [2023_algorithm_study](https://github.com/songye38/2023_algorithm_study).
-- [Aiffel 2기](https://github.com/songye38/Aiffel).
-- [ai_basics_for_designer](https://github.com/songye38/ai_basics_for_designers).
-
-#### INTERMEDIATE
-
-- 
-#### DEVELOPMENT
-- 
+#### LEVEL
+- **BASICS** [2023_algorithm_study](https://github.com/songye38/2023_algorithm_study).&nbsp;&nbsp;  [Aiffel 2기](https://github.com/songye38/Aiffel) &nbsp;&nbsp;
+  [ai_basics_for_designer](https://github.com/songye38/ai_basics_for_designers).
+- **INTERMEDIATE**
+- **DEVELOPMENT**
 
 #### Repository Types
 - **Study** : 책이나 수업을 들으면서 작성했던 코드를 보관한 저장소
@@ -28,7 +22,7 @@ Si vis libertatem, veni ad me
 
   
 #### Website
-🔗 https://vsongyev.myportfolio.com/ / 🔗 https://songye.myportfolio.com/
+🔗 https://vsongyev.myportfolio.com/
 <br/>
 <br/>
 
