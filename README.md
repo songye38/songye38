@@ -12,8 +12,8 @@ Si vis libertatem, veni ad me
 #### LEVEL
 - **BASICS** [2023_algorithm_study](https://github.com/songye38/2023_algorithm_study).&nbsp;&nbsp;  [Aiffel 2기](https://github.com/songye38/Aiffel) &nbsp;&nbsp;
   [ai_basics_for_designer](https://github.com/songye38/ai_basics_for_designers).
-- **INTERMEDIATE**
-- **DEVELOPMENT**
+- **INTERMEDIATE** [2023_recomd_study](https://github.com/songye38/2023_recomd_study) &nbsp;&nbsp; [2023_advanced_nlp](https://github.com/songye38/2023_advanced_nlp)
+- **DEVELOPMENT** [2023_frontend_project](https://github.com/songye38/2023_frontend_project) &nbsp;&nbsp;[2023_interactive_web](https://github.com/songye38/2023_interactive_web)
 
 #### Repository Types
 - **Study** : 책이나 수업을 들으면서 작성했던 코드를 보관한 저장소
