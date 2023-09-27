@@ -1,5 +1,10 @@
+
+Si vis libertatem, veni ad me
+
 ### Domain
 **Generative AI**
+**data for change**
+**Alternative Tech for everone**
 
 ### Interests
 - computational design / interactive web design and development / ethics for artificial intelligence
