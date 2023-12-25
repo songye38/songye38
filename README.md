@@ -1,6 +1,5 @@
 
 # Si vis libertatem, veni ad me
-<br />
 
 
 ### Domain
@@ -10,23 +9,6 @@
 
 ### Interests
 - computational design / interactive web design and development / ethics for artificial intelligence
-
-#### LEVEL
-- **BASICS** [2023_algorithm_study](https://github.com/songye38/2023_algorithm_study).&nbsp;&nbsp;  [Aiffel 2기](https://github.com/songye38/Aiffel) &nbsp;&nbsp;
-  [ai_basics_for_designer](https://github.com/songye38/ai_basics_for_designers).
-- **INTERMEDIATE** [2023_recomd_study](https://github.com/songye38/2023_recomd_study) &nbsp;&nbsp; [2023_advanced_nlp](https://github.com/songye38/2023_advanced_nlp)
-- **DEVELOPMENT** [2023_frontend_project](https://github.com/songye38/2023_frontend_project) &nbsp;&nbsp;[2023_interactive_web](https://github.com/songye38/2023_interactive_web)
-
-#### Repository Types
-- **Study** : 책이나 수업을 들으면서 작성했던 코드를 보관한 저장소
-- **Clone-Project** : 프로젝트를 따라해보면서 작성했던 코드 저장소
-- **Originals** : 직접 기획하고 개발한 코드 저장소
-
-  
-#### Website
-🔗 https://vsongyev.myportfolio.com/
-<br/>
-<br/>
 
 #### 📋 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
